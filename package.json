@@ -1,0 +1,24 @@
+{
+  "name": "fileunit",
+  "version": "0.1.0",
+  "description": "A small library for easily handling of files and logs.",
+  "main": "./lib/fileunit",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nexination/node-fileunit.git"
+  },
+  "keywords": [
+    "file",
+    "log",
+    "configuration"
+  ],
+  "author": "Kristian B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nexination/node-fileunit/issues"
+  },
+  "homepage": "https://github.com/Nexination/node-fileunit#readme"
+}
